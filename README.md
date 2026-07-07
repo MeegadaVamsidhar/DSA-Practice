@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MeegadaVamsidhar/DSA-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MeegadaVamsidhar/DSA-Practice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/MeegadaVamsidhar/DSA-Practice/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/MeegadaVamsidhar/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MeegadaVamsidhar/DSA-Practice/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -81,5 +82,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/MeegadaVamsidhar/DSA-Practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/MeegadaVamsidhar/DSA-Practice/tree/master/0118-pascals-triangle) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MeegadaVamsidhar/DSA-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
